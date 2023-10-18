@@ -2,6 +2,6 @@
 #include<iostream>
 int main() {
 	std::cout << "Hello Github World\n";
-	std::cout << "Hello New branch";
+	std::cout << "PullRequest branch changed\n";
 	return 0;
 }
