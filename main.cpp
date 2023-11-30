@@ -11,14 +11,6 @@ int main() {
 	std::cout << "ab\n";
 	std::cout << "PullRequest branch changed\n";
 	std::cout << "PullRequest branch changed\n";
-	std::cout << "PullRequest branch changed\n";
-	std::cout << "PullRequest branch changed\n";
-	std::cout << "PullRequest branch changed\n";
-	std::cout << "PullRequest branch changed\n";
-	std::cout << "PullRequest branch changed\n";
-	std::cout << "PullRequest branch changed\n";
-	std::cout << "PullRequest branch changed\n";
-	std::cout << "PullRequest branch changed\n";
 
 
 	return 0;
