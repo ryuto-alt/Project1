@@ -19,9 +19,7 @@ int main() {
 	std::cout << "PullRequest branch changed\n";
 	std::cout << "PullRequest branch changed\n";
 	std::cout << "PullRequest branch changed\n";
-	std::cout << "PullRequest branch changed\n";
 
-  
 
 	return 0;
 }
